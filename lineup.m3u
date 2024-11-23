@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WHNH-LD",2.1 WHNH-LD
+http://homerun.kaloudis.net/auto/v2.1
+#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="TheGrio",2.2 TheGrio
+http://homerun.kaloudis.net/auto/v2.2
+#EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="NewsNet",2.3 NewsNet
+http://homerun.kaloudis.net/auto/v2.3
+#EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="WHNH",2.4 WHNH
+http://homerun.kaloudis.net/auto/v2.4
+#EXTINF:-1 channel-id="3.1" channel-number="3.1" tvg-name="WFSB-HD" group-title="Favorites",3.1 WFSB-HD
+http://homerun.kaloudis.net/auto/v3.1
+#EXTINF:-1 channel-id="3.2" channel-number="3.2" tvg-name="MYSTERY" group-title="Favorites",3.2 MYSTERY
+http://homerun.kaloudis.net/auto/v3.2
+#EXTINF:-1 channel-id="3.3" channel-number="3.3" tvg-name="LAFF" group-title="Favorites",3.3 LAFF
+http://homerun.kaloudis.net/auto/v3.3
+#EXTINF:-1 channel-id="3.4" channel-number="3.4" tvg-name="theWAX" group-title="Favorites",3.4 theWAX
+http://homerun.kaloudis.net/auto/v3.4
+#EXTINF:-1 channel-id="6.1" channel-number="6.1" tvg-name="WLNE-TV",6.1 WLNE-TV
+http://homerun.kaloudis.net/auto/v6.1
+#EXTINF:-1 channel-id="6.2" channel-number="6.2" tvg-name="WLNE-D2",6.2 WLNE-D2
+http://homerun.kaloudis.net/auto/v6.2
+#EXTINF:-1 channel-id="6.3" channel-number="6.3" tvg-name="WLNE-D3",6.3 WLNE-D3
+http://homerun.kaloudis.net/auto/v6.3
+#EXTINF:-1 channel-id="6.4" channel-number="6.4" tvg-name="WLNE-D4",6.4 WLNE-D4
+http://homerun.kaloudis.net/auto/v6.4
+#EXTINF:-1 channel-id="6.5" channel-number="6.5" tvg-name="MeTV",6.5 MeTV
+http://homerun.kaloudis.net/auto/v6.5
+#EXTINF:-1 channel-id="10.1" channel-number="10.1" tvg-name="NBC",10.1 NBC
+http://homerun.kaloudis.net/auto/v10.1
+#EXTINF:-1 channel-id="10.2" channel-number="10.2" tvg-name="Charge!",10.2 Charge!
+http://homerun.kaloudis.net/auto/v10.2
+#EXTINF:-1 channel-id="10.3" channel-number="10.3" tvg-name="Comet",10.3 Comet
+http://homerun.kaloudis.net/auto/v10.3
+#EXTINF:-1 channel-id="10.4" channel-number="10.4" tvg-name="TBD",10.4 TBD
+http://homerun.kaloudis.net/auto/v10.4
+#EXTINF:-1 channel-id="20.1" channel-number="20.1" tvg-name="WCCT-DT" group-title="Favorites",20.1 WCCT-DT
+http://homerun.kaloudis.net/auto/v20.1
+#EXTINF:-1 channel-id="20.2" channel-number="20.2" tvg-name="Grit" group-title="Favorites",20.2 Grit
+http://homerun.kaloudis.net/auto/v20.2
+#EXTINF:-1 channel-id="20.3" channel-number="20.3" tvg-name="Comet" group-title="Favorites",20.3 Comet
+http://homerun.kaloudis.net/auto/v20.3
+#EXTINF:-1 channel-id="22.1" channel-number="22.1" tvg-name="WWLP-DT" group-title="Favorites",22.1 WWLP-DT
+http://homerun.kaloudis.net/auto/v22.1
+#EXTINF:-1 channel-id="22.2" channel-number="22.2" tvg-name="WWLP-CW" group-title="Favorites",22.2 WWLP-CW
+http://homerun.kaloudis.net/auto/v22.2
+#EXTINF:-1 channel-id="22.3" channel-number="22.3" tvg-name="WWLP-IO" group-title="Favorites",22.3 WWLP-IO
+http://homerun.kaloudis.net/auto/v22.3
+#EXTINF:-1 channel-id="22.4" channel-number="22.4" tvg-name="WWLP-MY" group-title="Favorites",22.4 WWLP-MY
+http://homerun.kaloudis.net/auto/v22.4
+#EXTINF:-1 channel-id="24.1" channel-number="24.1" tvg-name="WEDH-1" group-title="Favorites",24.1 WEDH-1
+http://homerun.kaloudis.net/auto/v24.1
+#EXTINF:-1 channel-id="24.2" channel-number="24.2" tvg-name="WEDH-2" group-title="Favorites",24.2 WEDH-2
+http://homerun.kaloudis.net/auto/v24.2
+#EXTINF:-1 channel-id="24.3" channel-number="24.3" tvg-name="WEDH-3" group-title="Favorites",24.3 WEDH-3
+http://homerun.kaloudis.net/auto/v24.3
+#EXTINF:-1 channel-id="26.1" channel-number="26.1" tvg-name="ION" group-title="Favorites",26.1 ION
+http://homerun.kaloudis.net/auto/v26.1
+#EXTINF:-1 channel-id="26.2" channel-number="26.2" tvg-name="Bounce" group-title="Favorites",26.2 Bounce
+http://homerun.kaloudis.net/auto/v26.2
+#EXTINF:-1 channel-id="26.3" channel-number="26.3" tvg-name="CourtTV" group-title="Favorites",26.3 CourtTV
+http://homerun.kaloudis.net/auto/v26.3
+#EXTINF:-1 channel-id="26.4" channel-number="26.4" tvg-name="IONPlus" group-title="Favorites",26.4 IONPlus
+http://homerun.kaloudis.net/auto/v26.4
+#EXTINF:-1 channel-id="26.5" channel-number="26.5" tvg-name="SCRIPPS" group-title="Favorites",26.5 SCRIPPS
+http://homerun.kaloudis.net/auto/v26.5
+#EXTINF:-1 channel-id="26.6" channel-number="26.6" tvg-name="Jewelry" group-title="Favorites",26.6 Jewelry
+http://homerun.kaloudis.net/auto/v26.6
+#EXTINF:-1 channel-id="26.7" channel-number="26.7" tvg-name="QVC" group-title="Favorites",26.7 QVC
+http://homerun.kaloudis.net/auto/v26.7
+#EXTINF:-1 channel-id="26.8" channel-number="26.8" tvg-name="HSN" group-title="Favorites",26.8 HSN
+http://homerun.kaloudis.net/auto/v26.8
+#EXTINF:-1 channel-id="27.1" channel-number="27.1" tvg-name="WWAXHD" group-title="Favorites",27.1 WWAXHD
+http://homerun.kaloudis.net/auto/v27.1
+#EXTINF:-1 channel-id="27.2" channel-number="27.2" tvg-name="TBD" group-title="Favorites",27.2 TBD
+http://homerun.kaloudis.net/auto/v27.2
+#EXTINF:-1 channel-id="27.3" channel-number="27.3" tvg-name="EWNNOW" group-title="Favorites",27.3 EWNNOW
+http://homerun.kaloudis.net/auto/v27.3
+#EXTINF:-1 channel-id="27.4" channel-number="27.4" tvg-name="Fido" group-title="Favorites",27.4 Fido
+http://homerun.kaloudis.net/auto/v27.4
+#EXTINF:-1 channel-id="27.5" channel-number="27.5" tvg-name="DEFY" group-title="Favorites",27.5 DEFY
+http://homerun.kaloudis.net/auto/v27.5
+#EXTINF:-1 channel-id="27.6" channel-number="27.6" tvg-name="WWAX365" group-title="Favorites",27.6 WWAX365
+http://homerun.kaloudis.net/auto/v27.6
+#EXTINF:-1 channel-id="27.7" channel-number="27.7" tvg-name="WWAXOUT" group-title="Favorites",27.7 WWAXOUT
+http://homerun.kaloudis.net/auto/v27.7
+#EXTINF:-1 channel-id="30.1" channel-number="30.1" tvg-name="WVIT-HD" group-title="Favorites",30.1 WVIT-HD
+http://homerun.kaloudis.net/auto/v30.1
+#EXTINF:-1 channel-id="30.2" channel-number="30.2" tvg-name="COZI-TV" group-title="Favorites",30.2 COZI-TV
+http://homerun.kaloudis.net/auto/v30.2
+#EXTINF:-1 channel-id="30.3" channel-number="30.3" tvg-name="CRIMES" group-title="Favorites",30.3 CRIMES
+http://homerun.kaloudis.net/auto/v30.3
+#EXTINF:-1 channel-id="30.4" channel-number="30.4" tvg-name="OXYGEN" group-title="Favorites",30.4 OXYGEN
+http://homerun.kaloudis.net/auto/v30.4
+#EXTINF:-1 channel-id="32.1" channel-number="32.1" tvg-name="WRNT-LP" group-title="Favorites",32.1 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.1
+#EXTINF:-1 channel-id="32.2" channel-number="32.2" tvg-name="WRNT-LP" group-title="Favorites",32.2 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.2
+#EXTINF:-1 channel-id="32.3" channel-number="32.3" tvg-name="WRNT-LP" group-title="Favorites",32.3 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.3
+#EXTINF:-1 channel-id="32.4" channel-number="32.4" tvg-name="WRNT-LP" group-title="Favorites",32.4 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.4
+#EXTINF:-1 channel-id="32.5" channel-number="32.5" tvg-name="WRNT-LP" group-title="Favorites",32.5 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.5
+#EXTINF:-1 channel-id="32.6" channel-number="32.6" tvg-name="WRNT-LP" group-title="Favorites",32.6 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.6
+#EXTINF:-1 channel-id="32.7" channel-number="32.7" tvg-name="WRNT-LP" group-title="Favorites",32.7 WRNT-LP
+http://homerun.kaloudis.net/auto/v32.7
+#EXTINF:-1 channel-id="34.1" channel-number="34.1" tvg-name="WTXX-LD",34.1 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.1
+#EXTINF:-1 channel-id="34.2" channel-number="34.2" tvg-name="WTXX-LD",34.2 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.2
+#EXTINF:-1 channel-id="34.3" channel-number="34.3" tvg-name="WTXX-LD",34.3 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.3
+#EXTINF:-1 channel-id="34.4" channel-number="34.4" tvg-name="WTXX-LD",34.4 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.4
+#EXTINF:-1 channel-id="34.5" channel-number="34.5" tvg-name="WTXX-LD",34.5 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.5
+#EXTINF:-1 channel-id="34.6" channel-number="34.6" tvg-name="WTXX-LD",34.6 WTXX-LD
+http://homerun.kaloudis.net/auto/v34.6
+#EXTINF:-1 channel-id="35.1" channel-number="35.1" tvg-name="MeTV" group-title="Favorites",35.1 MeTV
+http://homerun.kaloudis.net/auto/v35.1
+#EXTINF:-1 channel-id="35.2" channel-number="35.2" tvg-name="HEROES" group-title="Favorites",35.2 HEROES
+http://homerun.kaloudis.net/auto/v35.2
+#EXTINF:-1 channel-id="35.3" channel-number="35.3" tvg-name="START" group-title="Favorites",35.3 START
+http://homerun.kaloudis.net/auto/v35.3
+#EXTINF:-1 channel-id="35.4" channel-number="35.4" tvg-name="MOVIES" group-title="Favorites",35.4 MOVIES
+http://homerun.kaloudis.net/auto/v35.4
+#EXTINF:-1 channel-id="35.5" channel-number="35.5" tvg-name="CATCHY" group-title="Favorites",35.5 CATCHY
+http://homerun.kaloudis.net/auto/v35.5
+#EXTINF:-1 channel-id="35.6" channel-number="35.6" tvg-name="MeTV+" group-title="Favorites",35.6 MeTV+
+http://homerun.kaloudis.net/auto/v35.6
+#EXTINF:-1 channel-id="35.7" channel-number="35.7" tvg-name="STORY" group-title="Favorites",35.7 STORY
+http://homerun.kaloudis.net/auto/v35.7
+#EXTINF:-1 channel-id="35.8" channel-number="35.8" tvg-name="TOONS",35.8 TOONS
+http://homerun.kaloudis.net/auto/v35.8
+#EXTINF:-1 channel-id="35.9" channel-number="35.9" tvg-name="DABL",35.9 DABL
+http://homerun.kaloudis.net/auto/v35.9
+#EXTINF:-1 channel-id="35.12" channel-number="35.12" tvg-name="EMLW" group-title="Favorites",35.12 EMLW
+http://homerun.kaloudis.net/auto/v35.12
+#EXTINF:-1 channel-id="40.1" channel-number="40.1" tvg-name="ABC40HD" group-title="Favorites",40.1 ABC40HD
+http://homerun.kaloudis.net/auto/v40.1
+#EXTINF:-1 channel-id="40.2" channel-number="40.2" tvg-name="FOX6-HD" group-title="Favorites",40.2 FOX6-HD
+http://homerun.kaloudis.net/auto/v40.2
+#EXTINF:-1 channel-id="40.3" channel-number="40.3" tvg-name="COURTTV" group-title="Favorites",40.3 COURTTV
+http://homerun.kaloudis.net/auto/v40.3
+#EXTINF:-1 channel-id="40.4" channel-number="40.4" tvg-name="WGGBOUT" group-title="Favorites",40.4 WGGBOUT
+http://homerun.kaloudis.net/auto/v40.4
+#EXTINF:-1 channel-id="57.1" channel-number="57.1" tvg-name="WGBYDT1" group-title="Favorites",57.1 WGBYDT1
+http://homerun.kaloudis.net/auto/v57.1
+#EXTINF:-1 channel-id="57.2" channel-number="57.2" tvg-name="WGBYDT2" group-title="Favorites",57.2 WGBYDT2
+http://homerun.kaloudis.net/auto/v57.2
+#EXTINF:-1 channel-id="57.3" channel-number="57.3" tvg-name="WGBYDT3" group-title="Favorites",57.3 WGBYDT3
+http://homerun.kaloudis.net/auto/v57.3
+#EXTINF:-1 channel-id="57.4" channel-number="57.4" tvg-name="WGBYDT4" group-title="Favorites",57.4 WGBYDT4
+http://homerun.kaloudis.net/auto/v57.4
+#EXTINF:-1 channel-id="61.1" channel-number="61.1" tvg-name="WTIC-DT" group-title="Favorites",61.1 WTIC-DT
+http://homerun.kaloudis.net/auto/v61.1
+#EXTINF:-1 channel-id="61.2" channel-number="61.2" tvg-name="Ant TV" group-title="Favorites",61.2 Ant TV
+http://homerun.kaloudis.net/auto/v61.2
+#EXTINF:-1 channel-id="61.3" channel-number="61.3" tvg-name="GetTV" group-title="Favorites",61.3 GetTV
+http://homerun.kaloudis.net/auto/v61.3
+#EXTINF:-1 channel-id="61.4" channel-number="61.4" tvg-name="Crime" group-title="Favorites",61.4 Crime
+http://homerun.kaloudis.net/auto/v61.4
+#EXTINF:-1 channel-id="61.5" channel-number="61.5" tvg-name="NEST" group-title="Favorites",61.5 NEST
+http://homerun.kaloudis.net/auto/v61.5
+#EXTINF:-1 channel-id="65.1" channel-number="65.1" tvg-name="WEDY-1" group-title="Favorites",65.1 WEDY-1
+http://homerun.kaloudis.net/auto/v65.1
+#EXTINF:-1 channel-id="65.2" channel-number="65.2" tvg-name="WEDY-2" group-title="Favorites",65.2 WEDY-2
+http://homerun.kaloudis.net/auto/v65.2
+#EXTINF:-1 channel-id="65.3" channel-number="65.3" tvg-name="WEDY-3" group-title="Favorites",65.3 WEDY-3
+http://homerun.kaloudis.net/auto/v65.3
+#EXTINF:-1 channel-id="108.1" channel-number="108.1" tvg-name="WTNH-DT" group-title="Favorites",108.1 WTNH-DT
+http://homerun.kaloudis.net/auto/v108.1
+#EXTINF:-1 channel-id="120.1" channel-number="120.1" tvg-name="WCCT-DT" group-title="Favorites",120.1 WCCT-DT
+http://homerun.kaloudis.net/auto/v120.1
+#EXTINF:-1 channel-id="161.1" channel-number="161.1" tvg-name="WTIC-DT" group-title="Favorites",161.1 WTIC-DT
+http://homerun.kaloudis.net/auto/v161.1
